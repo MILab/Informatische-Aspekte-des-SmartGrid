@@ -31,4 +31,5 @@ Gruppenarbeit.
 
 ## Diagnose
 
-Ergebnis der Programmierung ? Quellcode oder funktionierendes Modell.
+Ergebnis der Programmierung
+Quellcode oder funktionierendes Modell.
